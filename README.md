@@ -43,7 +43,6 @@
 
 #### Others
 <p>
-<img alt="Excel" width="35px" src="https://img.icons8.com/color/48/null/microsoft-excel.png"/>
 <img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
 </p>
 
@@ -51,7 +50,6 @@
 
 ### Where to find me
 <p>
-  <a href="https://www.instagram.com/theprayingmantis_10/"><img alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
   <a href="https://www.linkedin.com/in/shubham-kanekal-a6993a223"><img alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
   <a href="mailto:shubhamk101103@gmail.com"><img alt = "Sarang Kumar | Mail" width="22px" src="https://img.icons8.com/color/48/null/gmail-new.png"/></a>
 </p>
