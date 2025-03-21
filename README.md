@@ -3,8 +3,8 @@
 </p>
 
 ## :relaxed:I'm a student at PES University
-  - I'm currently learning Data Science and Machine Learning 🤖
-  - 2024 Goal: Contribute more to Open Source Projects :octocat:
+  - I'm currently learning DevOps and AWS 🤖
+  - 2025 Goal: Contribute more to Open Source Projects :octocat:
 
 #### Do fork or star some of my repos :wink:
 
